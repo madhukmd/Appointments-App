@@ -1,0 +1,33 @@
+.list-content-container {
+  border: 1px solid #b5b7c4;
+  width: 280px;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  margin-right: 10px;
+}
+.list-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.list-heading {
+  color: #171f46;
+  font-family: 'Roboto';
+  font-weight: 800;
+  font-size: 17px;
+  margin: 0;
+  margin-bottom: 9px;
+}
+.list-date {
+  color: #b5b7c4;
+  font-family: 'Roboto';
+  font-size: 17px;
+  font-size: 700;
+  margin: 0;
+}
+.btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
